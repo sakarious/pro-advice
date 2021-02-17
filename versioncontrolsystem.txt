@@ -1,9 +1,3 @@
-to start a competitive business 
-that sell version control system
-to end users. He has ask for you profession 
-advice. He want high overview of
-how he can accomplish this project
-.Create a text file that has 
-title of the project. Then consult
-your Software engineer friend to 
-write the overview
+Hello Victor,
+
+I intend to start a competitive business that sells version control system to end users and Ineed your professional advice. I want high overview of how I can accomplish this project. 
